@@ -56,8 +56,8 @@ ax.set_ylabel('Bandgap (eV)')
 ax.set_zlabel('PCE (%)')
 
 # Color bar and legend
-cbar = fig.colorbar(surf, shrink=0.5, aspect=5)
-cbar.set_label('PCE (%)')
+# delete the colourbar to shrink the photo cbar = fig.colorbar(surf, shrink=0.5, aspect=5)
+#cbar.set_label('PCE (%)')
 ax.legend()
 
 plt.title('3D Surface Plot with Quadratic Fit for MAPbIxBr3-x')
