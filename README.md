@@ -3,3 +3,5 @@ This repository contains the code and data for the research project investigatin
 IonMonger and Perovskene github repositories are very good and helped me understand the simulation of perovskite solar cells.
 
 (I am trying to get the new readme file done, so this is definitely not the final description)
+
+<img width="869" alt="Screenshot 2024-09-25 at 23 59 55" src="https://github.com/user-attachments/assets/1482a2a8-87fc-434a-bc95-bce74176a1b2">
