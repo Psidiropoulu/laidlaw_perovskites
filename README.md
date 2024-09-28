@@ -1,10 +1,11 @@
 # Tuning Halide Ions to Offset Bending in Lead-Based Perovskite Optoelectronic Properties
 
 ## Project Overview
-This project investigates how the optoelectronic properties of lead-based perovskites (PVKs) can be optimized by tuning the concentration of halide ions to offset the effects of bending curvature (hence the tensile or compressive strain). The research is particularly focused on perovskite applications for solar cells attached to **vehicle surfaces**.
+This project investigates how the optoelectronic properties of lead-based perovskites (PVKs) can be optimized by tuning the concentration of halide ions to offset the effects of bending curvature (hence the tensile or compressive strain). The research is particularly focused on perovskite applications for solar 
+ells attached to **vehicle surfaces**.
 
 <p align="center">
-<img width="869" alt="Screenshot 2024-09-25 at 23 59 55" src="https://github.com/user-attachments/assets/1482a2a8-87fc-434a-bc95-bce74176a1b2">
+c<img width="881" alt="Screenshot 2024-09-28 at 22 35 59" src="https://github.com/user-attachments/assets/f52c087f-54a4-43ee-9f70-59d540981389">
 </p>
 
 ## Research Goals
